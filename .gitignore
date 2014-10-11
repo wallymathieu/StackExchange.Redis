@@ -15,3 +15,4 @@ Mono/
 redis-cli.exe
 Redis Configs/*.dat
 RedisQFork*.dat
+.vagrant
