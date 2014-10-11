@@ -4,6 +4,7 @@ bin.snk
 obj
 *.suo
 *.user
+*.userprefs
 *.nupkg
 packages/NuGet.CommandLine.*
 *.sln.docstates

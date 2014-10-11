@@ -10,6 +10,11 @@ namespace StackExchange.Redis
         {
             throw new System.NotSupportedException();
         }
+
+        internal string State
+        {
+            get { return "NoPoll"; }
+        }
     }
 }
 
